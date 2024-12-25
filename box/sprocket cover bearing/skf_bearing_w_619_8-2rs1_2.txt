@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"34-07082024-100602";"";
+"REFERENCE";"W 619/8-2RS1";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.InstanceId";"34-07082024-10060270W59AL153OBI138SZ4XDE023";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row, stainless steel, contact seals";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Stainless steel single row deep groove ball bearing, contact seals, Bore Ø 8 mm, Outside Ø 19 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.00666";"";
